@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RavByte-AI/.github/main/profile/logo.png" width="120" alt="RavByte AI Logo"/>
+<img src="https://raw.githubusercontent.com/RavByte-AI/.github/main/profile/logo.png" width="120" alt="RAVBYTE LOGO"/>
 
 ### Building the Future of Autonomous AI Agents & Developer Infrastructure
 
